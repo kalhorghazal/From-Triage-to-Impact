@@ -11,7 +11,7 @@ This repository contains the dataset and analysis code for the paper:
 The repository is organized into the following directories:
 
 * **LLM Evaluation**: This directory contains the Python scripts used to calculate metrics for evaluating LLMs on hate speech detection at each annotation hop.
-* 
+ 
 * **Human Validation**: This directory contains Python scripts used to calculate inter-annotator agreement and human–LLM alignment metrics as part of the human validation of LLM-generated annotations.
 
 ## Datasets
