@@ -16,4 +16,4 @@ The repository is organized into the following directories:
 
 ## Datasets
 
-Since the dataset collected and used in this study contains potentially offensive or violent hate speech texts, we do not publicly release it. However, access can be provided upon reasonable request to the corresponding authors.
+Since the datasets collected and used in this study contains potentially offensive or violent hate speech texts, we do not publicly release it. However, access can be provided upon reasonable request to the corresponding authors.
